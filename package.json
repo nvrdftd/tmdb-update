@@ -1,0 +1,14 @@
+{
+  "name": "tmdb-update",
+  "version": "1.2.0",
+  "description": "Cache data from TMDb",
+  "scripts": {
+    "start": "node update.js"
+  },
+  "author": "Lung Chen Huang <perfecthuang413@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bson-ext": "^1.0.0",
+    "mongodb": "^2.2.12"
+  },
+}
